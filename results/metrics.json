@@ -1,0 +1,17 @@
+{
+
+  "samples": 240,
+
+  "precision": 1.0,
+
+  "recall": 0.9833333333333333,
+
+  "leak_start_step": 120,
+
+  "first_detection_step": 122,
+
+  "detection_delay_steps": 2,
+
+  "data": "deterministic synthetic tank mass-balance simulation"
+
+}
